@@ -19,7 +19,7 @@ public class DAOEtudiantJDBCTest {
 	Etudiant e1,e2;
 	@Before
 	public void init (){
-		interactBD jdbc = new interactBD();
+		interactBD jdbc = new interactBD(); 
 		try {
 			jdbc.init();
 		} catch (ClassNotFoundException e) {
