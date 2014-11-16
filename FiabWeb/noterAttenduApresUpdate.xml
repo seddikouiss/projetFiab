@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+
+  <NOTER id_Etudiant="C1" id_Ue="FIABILITE 1" Note="20"/>
+  <NOTER id_Etudiant="M1" id_Ue="FIABILITE 1" Note="20"/>
+  <NOTER id_Etudiant="P1" id_Ue="FIABILITE 1" Note="20"/>
+  <NOTER id_Etudiant="S1" id_Ue="FIABILITE 1" Note="15"/>
+</dataset>

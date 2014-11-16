@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+
+  <PROF idUniv="1" nom="LUGIEZ" prenom="DENIS"/>
+  <PROF idUniv="2" nom="MASSAT" prenom="JEAN-LUC"/>
+  <PROF idUniv="3" nom="AGOPIAN" prenom="ROLAND"/>
+  <PROF idUniv="4" nom="BROCHE" prenom="MARTINE"/>
+  <PROF idUniv="5" nom="XX" prenom="XX"/>	
+  <PROF idUniv="20" nom="XX" prenom="ZZ"/>
+
+</dataset>

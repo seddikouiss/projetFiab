@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>FiabWeb</display-name>
+  <welcome-file-list>
+    <welcome-file>auth.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+    <servlet-name>servletFiab</servlet-name>
+    <servlet-class>fr.amu.appli.Servlet</servlet-class>
+  </servlet>
+  
+    <servlet-mapping>
+    <servlet-name>servletFiab</servlet-name>
+    <url-pattern>/Servlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>servletFiab</servlet-name>
+    <url-pattern>/newEtud</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>servletFiab</servlet-name>
+    <url-pattern>/newProf</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>servletFiab</servlet-name>
+    <url-pattern>/newUE</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>servletFiab</servlet-name>
+    <url-pattern>/modifierNote</url-pattern>
+  </servlet-mapping>
+
+   
+   <session-config>
+    <session-timeout>1</session-timeout>
+   </session-config>
+  
+</web-app>

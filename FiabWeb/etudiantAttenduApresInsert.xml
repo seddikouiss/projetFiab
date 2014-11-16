@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+
+  	<ETUDIANT idEtud="C1" nom="AMRANI" prenom="CHIBLA"/>
+  	<ETUDIANT idEtud="M1" nom="BEN NASR" prenom="MERIEM"/>
+  	<ETUDIANT idEtud="P1" nom="BRUNET" prenom="PIERRE"/>
+  	<ETUDIANT idEtud="S1" nom="OUISS" prenom="SEDDIK"/>
+	<ETUDIANT idEtud="X1" nom="XZ" prenom="XZ"/>
+	<ETUDIANT idEtud="znewNumEtud" nom="newNomEtud" prenom="newPreomEtud"/>
+
+</dataset>

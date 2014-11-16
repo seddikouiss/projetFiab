@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+
+
+<ENSEIGNER id_Ue="FIABILITE 1" id_Prof="1"/>
+<ENSEIGNER id_Ue="JEE" id_Prof="2"/>
+<ENSEIGNER id_Ue="SYSTEME HETEROGENE" id_Prof="3"/>
+
+
+</dataset>

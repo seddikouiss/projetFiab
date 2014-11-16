@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <UE nom="COMMUNICATION"/>
+  <UE nom="FIABILITE 1"/>
+  <UE nom="JEE"/>
+  <UE nom="SYSTEME HETEROGENE"/>
+  <UE nom="XXX"/>
+  <UE nom="ZnewUE"/>
+  <PROF idUniv="1" nom="LUGIEZ" prenom="DENIS"/>
+  <PROF idUniv="2" nom="MASSAT" prenom="JEAN-LUC"/>
+  <PROF idUniv="3" nom="AGOPIAN" prenom="ROLAND"/>
+  <PROF idUniv="4" nom="BROCHE" prenom="MARTINE"/>
+  <PROF idUniv="5" nom="XX" prenom="XX"/>
+  <ETUDIANT idEtud="C1" nom="AMRANI" prenom="CHIBLA"/>
+  <ETUDIANT idEtud="M1" nom="BEN NASR" prenom="MERIEM"/>
+  <ETUDIANT idEtud="P1" nom="BRUNET" prenom="PIERRE"/>
+  <ETUDIANT idEtud="S1" nom="OUISS" prenom="SEDDIK"/>
+  <ETUDIANT idEtud="X1" nom="XZ" prenom="XZ"/>
+  <NOTER id_Etudiant="C1" id_Ue="FIABILITE 1" Note="20"/>
+  <NOTER id_Etudiant="M1" id_Ue="FIABILITE 1" Note="20"/>
+  <NOTER id_Etudiant="P1" id_Ue="FIABILITE 1" Note="20"/>
+  <NOTER id_Etudiant="S1" id_Ue="FIABILITE 1" Note="20"/>
+  <ENSEIGNER id_Ue="FIABILITE 1" id_Prof="1"/>
+  <ENSEIGNER id_Ue="JEE" id_Prof="2"/>
+  <ENSEIGNER id_Ue="SYSTEME HETEROGENE" id_Prof="3"/>
+  <ENSEIGNER id_Ue="COMMUNICATION" id_Prof="4"/>
+</dataset>
